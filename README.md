@@ -41,7 +41,10 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-In localhost:8000/api/docs (it's also home page) you can automatically generated SwaggerUI docs. 
+## Usage
+`localhost:8000/api/docs`
+In this page (it's also home page) you can see automatically generated SwaggerUI docs.
+ 
 
 ### Request
 
